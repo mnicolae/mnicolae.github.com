@@ -1,8 +1,8 @@
 /* TEAM */
 
-Name: Phlow
-Site: http://phlow.de/
-Twitter: @phlow
+Name: Mihai Nicolae
+Site: http://mnicolae.github.io/
+Twitter: https://twitter.com/mihain91
 
 
 /* THANKS */

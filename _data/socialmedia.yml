@@ -3,15 +3,16 @@
   class: icon-github
   title: Personal Github account
 
+- name: Twitter
+  url: https://twitter.com/mihain91
+  class: icon-twitter
+  title: Twitter account
+
 # - name: YouTube
 #   url: http://www.youtube.com/PhlowMedia
 #   class: icon-youtube
 #   title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 #
-# - name: Twitter
-#   url: http://twitter.com/phlow
-#   class: icon-twitter
-#   title: "Immer das Neuste von Phlow gibt es auf Twitter"
 #
 # - name: Mixcloud
 #   url: http://www.mixcloud.com/phlow/
